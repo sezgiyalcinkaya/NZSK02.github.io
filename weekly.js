@@ -63,7 +63,7 @@ font: {size: 26,bold: true}
         xaxis: {
             tickmode: 'array',
             tickvals: [0,143,287,431,575,719,863], // Adjusted for your data
-            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursay','Friday','Saturday'], // Custom labels
+            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'], // Custom labels
             tickfont: {size: 22},
 
 },
@@ -151,7 +151,7 @@ font: {size: 26,bold: true}
         xaxis: {
             tickmode: 'array',
             tickvals: [0,143,287,431,575,719,863], // Adjusted for your data
-            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursay','Friday','Saturday'], // Custom labels
+            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'], // Custom labels
             tickfont: {size: 22},
 
 },
@@ -235,7 +235,7 @@ font: {size: 26,bold: true}
         xaxis: {
             tickmode: 'array',
             tickvals: [0,143,287,431,575,719,863], // Adjusted for your data
-            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursay','Friday','Saturday'], // Custom labels
+            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thurdsay','Friday','Saturday'], // Custom labels
             tickfont: {size: 22},
 
 },
@@ -335,7 +335,7 @@ font: {size: 26,bold: true}
         xaxis: {
             tickmode: 'array',
             tickvals: [0,143,287,431,575,719,863], // Adjusted for your data
-            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursay','Friday','Saturday'], // Custom labels
+            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thurdsay','Friday','Saturday'], // Custom labels
             tickfont: {size: 22},
 
 },
@@ -414,7 +414,7 @@ font: {size: 26,bold: true}
         xaxis: {
             tickmode: 'array',
             tickvals: [0,143,287,431,575,719,863], // Adjusted for your data
-            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursay','Friday','Saturday'], // Custom labels
+            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thurdsay','Friday','Saturday'], // Custom labels
             tickfont: {size: 22},
 
 },
@@ -498,7 +498,7 @@ font: {size: 26,bold: true}
         xaxis: {
             tickmode: 'array',
             tickvals: [0,143,287,431,575,719,863], // Adjusted for your data
-            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursay','Friday','Saturday'], // Custom labels
+            ticktext: ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'], // Custom labels
             tickfont: {size: 22},
 
 },
